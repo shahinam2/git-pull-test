@@ -2,4 +2,4 @@
 
 ## resulting conflict.
 
-this is a branch prot(this is a mess up)ection test.
+this is a branch (this is a mess up)protection test.
